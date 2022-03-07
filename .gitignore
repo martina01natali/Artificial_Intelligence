@@ -1,2 +1,8 @@
 # Artificial Intelligence
 # gitignore
+
+# */desktop.ini
+./Books/*
+./Books
+./Notes/*
+./Notes
