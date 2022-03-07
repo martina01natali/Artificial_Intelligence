@@ -2,7 +2,7 @@
 # gitignore
 
 # */desktop.ini
-./Books/*
-./Books
-./Notes/*
-./Notes
+Books/*
+Books
+Notes/*
+Notes
